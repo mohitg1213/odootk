@@ -9,3 +9,9 @@ Requirements:
 Tested on Linux(Ubuntu)
 
 Instruction(s) for Usage:
+
+A) DIRECTLY FROM SOURCE CODE
+- Execute file "OdooModules.py" directly using python 2.7
+
+B) FROM EXECUTABLE FILE
+- Double click on file
