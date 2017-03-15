@@ -8,4 +8,4 @@ Requirements:
 
 Tested on Linux(Ubuntu)
 
-Instruction for Usage:
+Instruction(s) for Usage:
