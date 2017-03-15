@@ -6,4 +6,6 @@ A small but very usefull GUI app, especially for BDEs, build using python "Tkint
 Requirements:
 - Python Tkinter library
 
-Tested in Linux(Ubuntu)
+Tested on Linux(Ubuntu)
+
+Instruction for Usage:
